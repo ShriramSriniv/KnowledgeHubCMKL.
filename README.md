@@ -1,7 +1,1 @@
-# Studytool.CMKL
-# Studytool.CMKL
-# cmkl
-# cmkl
-# KnowledgeHubCMKL
-# KnowledgeHubCMKL.
-# KnowledgeHubCMKL.
+THis repo is for the cmkl students, to access notes and resources recommended by the faculty's professor for, however please be informed that only login with the cmkl emailID for access, to the website. The professors will be logged in as admins so they can edit, modify, add, remove, update any data. Thanks
